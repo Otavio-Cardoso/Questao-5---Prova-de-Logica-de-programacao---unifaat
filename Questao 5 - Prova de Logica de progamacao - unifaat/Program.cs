@@ -10,6 +10,8 @@ namespace Questao_5___Prova_de_Logica_de_progamacao___unifaat
     {
         static void Main(string[] args)
         {
+            //------------- ALUNO : OTÁVIO CARDOSO RA 6322528 -------------
+            
             int cont = 1;
             Console.WriteLine("Programa para encontrar todos os numeros pares de 1 a 100." +
                 "\n Aperte qualquer tecla para continuar...");
